@@ -1,0 +1,11 @@
+*.sublime-workspace
+*.sublime-project
+
+.idea/
+
+*.bat
+
+# Grafana linter config
+.jshintrc
+.jscs.json
+.jsfmtrc
